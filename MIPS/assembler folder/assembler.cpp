@@ -31,8 +31,8 @@ using namespace std;
 #define S second
 
 #define ALL(x)      (x).begin(), (x).end()
-#define READ        freopen("in3.txt", "r", stdin)
-#define WRITE       freopen("out3.txt", "w", stdout)
+#define READ        freopen("in4.txt", "r", stdin)
+#define WRITE       freopen("out4.txt", "w", stdout)
 
 #ifndef ONLINE_JUDGE
 #define DBG(x)      cout << __LINE__ << " says: " << #x << " = " << (x) << endl
